@@ -67,6 +67,7 @@
 * [Hijos de la Web](https://www.hijosdelaweb.com) (podcast) (Última Actualización, Marzo 2020)
 * [iCharlas](http://icharlas.es) (podcast)
 * [La Tecnologería](https://tecnologeria.com) (podcast)
+* [La Tecnología para todos](https://programarfacil.com/podcast/podcast-la-tecnologia-para-todos/) (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) (podcast)
 * [Mixx.io](https://mixx.io/podcasts) (podcast)
 * [NoSoloTech](https://www.ivoox.com/podcast-nosolotech-podcast_sq_f1851397_1.html) (podcast)
